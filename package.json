@@ -4,6 +4,7 @@
   "description": "Make your own maze!",
   "main": "index.js",
   "scripts": {
+    "start": "./node_modules/.bin/http-server .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sohnryang/mazify/issues"
   },
-  "homepage": "https://github.com/sohnryang/mazify#readme"
+  "homepage": "https://github.com/sohnryang/mazify#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
 }

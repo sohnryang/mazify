@@ -1,0 +1,8 @@
+{
+    "libs": [
+        "browser",
+        "ecma5"
+    ],
+    "loadEagerly": ["js/*.js"],
+    "ecmaVersion": 5
+}
