@@ -1,0 +1,23 @@
+{
+  "name": "mazify",
+  "version": "1.0.0",
+  "description": "Make your own maze!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohnryang/mazify.git"
+  },
+  "keywords": [
+    "maze",
+    "javascript"
+  ],
+  "author": "sohnryang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sohnryang/mazify/issues"
+  },
+  "homepage": "https://github.com/sohnryang/mazify#readme"
+}
